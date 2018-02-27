@@ -6,3 +6,5 @@ go run spider.go
 
 ## Close Mode
 ctrl z
+
+## add src
